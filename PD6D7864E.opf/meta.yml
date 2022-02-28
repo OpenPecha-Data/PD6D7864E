@@ -1,0 +1,15 @@
+id: PD6D7864E
+initial_creation_type: input
+source_metadata:
+  title: Impermanence Series
+  language: bo
+  description: 'Texts on the subject of impermanence (anitya; mi rtag pa):'
+  volume:
+    bdccfbef7ac54256b394d8fe29b109ce:
+      title: Verses of Advice for Meditating on Impermanence
+      parent: Advice
+    9911b2ca6151495b92537d630d0066ef:
+      title: When Flowers Were Ravaged by the Frost
+      parent: Songs and Poems
+created_at: '2022-03-01T03:58:08.205534'
+last_modified_at: '2022-03-01T03:58:08.205536'
